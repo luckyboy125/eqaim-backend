@@ -18,7 +18,7 @@ It is Backend side repo.
  
 # How to Run the Application(Backend):
 
-1. Download Postsql application and install for database.
+1. Download Postgresql application and install for database.
 1. Clone Repo: `https://github.com/luckyboy125/eqaim-backend`
 2. Download Node application and install.
 3. Run `npx tsc` to build js file.
